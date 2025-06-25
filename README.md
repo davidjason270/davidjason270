@@ -14,15 +14,6 @@ I'm a self-driven developer focused on building clean, functional, and user-frie
 
 ---
 
-### 📚 Currently Learning
-
-- TypeScript
-- Docker & containerization
-- Advanced React patterns
-- AI/ML with Python (pandas, scikit-learn, etc.)
-
----
-
 ### 🤝 Open to Collaborate On
 
 - Web-based tools that solve actual problems
